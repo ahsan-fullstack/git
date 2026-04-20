@@ -1,5 +1,5 @@
-function Sum(a,b){
-    return a*b;
+function addNumbers(a, b) {
+    return a + b;
 }
 
-Sum(1,2);
+console.log(addNumbers(5, 3));
