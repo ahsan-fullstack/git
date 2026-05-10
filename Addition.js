@@ -1,4 +1,5 @@
 function subtraction(a, b) {
+    console.log('subtraction logic');
     return a - b;
 }
 
